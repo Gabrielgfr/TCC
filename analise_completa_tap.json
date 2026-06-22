@@ -1,0 +1,76 @@
+{
+    "modelos": {
+        "SVM": {
+            "melhores_parametros": {
+                "modelo__C": 1,
+                "modelo__epsilon": 0.05,
+                "modelo__gamma": "scale",
+                "modelo__kernel": "rbf"
+            },
+            "rmse_validacao_cv": 14.62210238120488,
+            "rmse_std_cv": 0.12258004571805335,
+            "mse_teste": 214.6094782547038,
+            "rmse_teste": 14.649555565091516,
+            "mae_teste": 12.018902514795975,
+            "r2_teste": 0.11087489249918392
+        },
+        "MLP": {
+            "melhores_parametros": {
+                "modelo__alpha": 0.0001,
+                "modelo__hidden_layer_sizes": [
+                    100
+                ],
+                "modelo__learning_rate_init": 0.001
+            },
+            "rmse_validacao_cv": 14.753960893776961,
+            "rmse_std_cv": 0.1378264487782057,
+            "mse_teste": 220.67237926615863,
+            "rmse_teste": 14.855045582769467,
+            "mae_teste": 12.17367028712687,
+            "r2_teste": 0.08575634900606377
+        },
+        "Ridge": {
+            "melhores_parametros": {
+                "modelo__alpha": 50.0
+            },
+            "rmse_validacao_cv": 14.613841593663414,
+            "rmse_std_cv": 0.151785749365606,
+            "mse_teste": 215.45528930654197,
+            "rmse_teste": 14.678395324644379,
+            "mae_teste": 12.189862965684679,
+            "r2_teste": 0.10737070503967916
+        },
+        "Random Forest": {
+            "melhores_parametros": {
+                "modelo__max_depth": 10,
+                "modelo__min_samples_leaf": 2,
+                "modelo__min_samples_split": 5,
+                "modelo__n_estimators": 200
+            },
+            "rmse_validacao_cv": 14.629923678215293,
+            "rmse_std_cv": 0.1460905190246461,
+            "mse_teste": 217.5313293888401,
+            "rmse_teste": 14.748943331264112,
+            "mae_teste": 12.313951561442769,
+            "r2_teste": 0.0987696899477053
+        },
+        "Decision Tree": {
+            "melhores_parametros": {
+                "modelo__max_depth": 5,
+                "modelo__min_samples_leaf": 1,
+                "modelo__min_samples_split": 10
+            },
+            "rmse_validacao_cv": 15.00241946571207,
+            "rmse_std_cv": 0.15327952981877452,
+            "mse_teste": 228.45802883079116,
+            "rmse_teste": 15.114828111189064,
+            "mae_teste": 12.646567025258015,
+            "r2_teste": 0.053500473998055575
+        }
+    },
+    "importancia_dimensoes_rf": {
+        "Organizacao_Didatico_Pedagogica": 0.5643097500126757,
+        "Infraestrutura_e_Instalacoes": 0.1988256252838713,
+        "Oportunidades_de_Formacao": 0.23686462470345285
+    }
+}
