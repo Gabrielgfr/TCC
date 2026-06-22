@@ -1,6 +1,7 @@
-# 🎓 Predição da Taxa de Aprovação em Cursos de Computação com Machine Learning
+# 🎓 Fatores Associados à Permanência Acadêmica em Cursos de Computação: Análise Preditiva e Interpretável com Dados do ENADE
 
-> Trabalho de Conclusão de Curso — Ciência da Computação · UNIVASF · 2026
+> Trabalho de Conclusão de Curso — Ciência da Computação · UNIVASF · Campus Salgueiro · 2026  
+> Orientadora: Profa. Me. Débora da Conceição Araújo
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
@@ -160,7 +161,7 @@ Dados ENADE (QE_I*)
 
 **Gabriel Ferreira Rodrigues**  
 Graduando em Ciência da Computação — UNIVASF  
+Engenheiro de Qualidade de Software e IA — di2win
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gabrielgfr-181717?logo=github)](https://github.com/Gabrielgfr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--ferreira--roodrigues-0A66C2?logo=linkedin)](https://linkedin.com/in/gabriel-ferreira-roodrigues)
-
