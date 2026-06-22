@@ -161,7 +161,6 @@ Dados ENADE (QE_I*)
 
 **Gabriel Ferreira Rodrigues**  
 Graduando em Ciência da Computação — UNIVASF  
-Engenheiro de Qualidade de Software e IA — di2win
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gabrielgfr-181717?logo=github)](https://github.com/Gabrielgfr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabriel--ferreira--roodrigues-0A66C2?logo=linkedin)](https://linkedin.com/in/gabriel-ferreira-roodrigues)
