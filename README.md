@@ -85,23 +85,8 @@ cd tcc-tap-ml
 ### 2. Instale as dependências
 
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy scikit-learn shap joblib matplotlib openpyxl
 ```
-
-<details>
-<summary>Principais bibliotecas utilizadas</summary>
-
-```
-pandas
-numpy
-scikit-learn
-shap
-joblib
-matplotlib
-openpyxl
-```
-
-</details>
 
 ### 3. Execute a análise principal
 
